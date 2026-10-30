@@ -7,3 +7,6 @@ Most of my thinking for these exercises was pretty linear. Although I technicall
 
 ## Improvements:
 Most of my improvements would probably come in the third task, the EventBus. Admittedly, this took me quite a bit longer than the other two as I had to actually conceptualize the task for longer and didn't have any immediate answer jumping out at me. I would want to further optimize the problem, as I have a feeling that I could've have implemented it better. I'm not sure. I did use AI for this problem, but it was mainly to understand what was asked of me, and for some C# standard library syntax and methods I could employ.
+
+## Time Spent:
+I spent closer to 2 hours on this, with the EventBus taking a majority of that time.
